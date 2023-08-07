@@ -9,9 +9,11 @@
           <form
             name="contact"
             method="POST"
+            netlify-honeypot="bot-field"
             data-netlify-recaptcha="true"
             data-netlify="true"
           >
+            <input type="hidden" name="subject" value="Wally's Web Inquiry" />
             <div class="mb-6">
               <label for="name" class="form-label">
                 Full Name <span class="text-red-500">*</span>
