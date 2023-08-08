@@ -14,11 +14,13 @@
             data-netlify="true"
           >
             <input type="hidden" name="subject" value="Wally's Web Inquiry" />
+            <input name="bot-field" style="display: none; visibility: hidden" />
             <div class="mb-6">
               <label for="name" class="form-label">
                 Full Name <span class="text-red-500">*</span>
               </label>
               <input
+                name="name"
                 id="name"
                 class="form-input"
                 placeholder=""
@@ -30,6 +32,7 @@
                 E-mail <span class="text-red-500">*</span>
               </label>
               <input
+                name="email"
                 id="mail"
                 class="form-input"
                 placeholder=""
@@ -40,6 +43,7 @@
                 Phone
               </label>
               <input
+                name="phone"
                 id="phone"
                 class="form-input"
                 placeholder="416-456-7890"
@@ -51,6 +55,7 @@
                 Project Details <span class="text-red-500">*</span>
               </label>
               <textarea
+                name="message"
                 class="form-input"
                 placeholder="Message goes here..."
                 id="message"
