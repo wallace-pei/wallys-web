@@ -1,6 +1,7 @@
 ---
 title: What is Composable Architecture?
 date: 2023-08-09T16:25:57.555Z
+image: /img/jamstack_logo_darkbg_transparent.png
 description: An article describing what Composable Architecture is.
 ---
 # Demystifying Composable Architecture: Building Smarter Web Experiences
@@ -15,11 +16,14 @@ In traditional web development, we often deal with large, monolithic structures.
 
 These building blocks are like Lego pieces. Each piece has a specific role and can interact with others, creating a cohesive and functional whole. This approach brings several benefits:
 
-### **1. Reusability:** Just like how you can reuse your favorite Lego pieces in different creations, Composable Architecture allows developers to reuse modules across projects. This saves time and ensures consistency.
+### **1. Reusability:** 
+Just like how you can reuse your favorite Lego pieces in different creations, Composable Architecture allows developers to reuse modules across projects. This saves time and ensures consistency.
 
-### **2. Maintainability:** When an issue pops up, you don't need to rebuild the entire puzzle. With Composable Architecture, you can pinpoint the problem to a specific module and fix it without disrupting the entire project.
+### **2. Maintainability:** 
+When an issue pops up, you don't need to rebuild the entire puzzle. With Composable Architecture, you can pinpoint the problem to a specific module and fix it without disrupting the entire project.
 
-### **3. Scalability:** As your web project grows, you can easily add new features by combining existing building blocks or creating new ones. It's like expanding your Lego collection to build more intricate structures.
+### **3. Scalability:** 
+As your web project grows, you can easily add new features by combining existing building blocks or creating new ones. It's like expanding your Lego collection to build more intricate structures.
 
 ## Bringing Order to Complexity
 
