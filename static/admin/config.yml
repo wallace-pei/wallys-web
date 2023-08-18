@@ -8,7 +8,7 @@ collections:
     label: 'Blog'
     folder: 'content/english/blog'
     create: true
-    slug: '{{filename}}'
+    slug: '{{title}}'
     editor:
       preview: false
     fields:
