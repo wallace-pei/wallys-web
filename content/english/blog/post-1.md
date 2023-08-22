@@ -1,13 +1,16 @@
 ---
-title: "What is Jamstack?"
-meta_title: ""
-description: "this is meta description"
-date: 2023-08-03T05:00:00Z
-image: "/images/Jamstack_Logo_DarkBG_Transparent.png"
-categories: ["Jamstack"]
-author: "Wallace Pei"
-tags: ["jamstack"]
 draft: false
+author: Wallace Pei
+title: What is Jamstack?
+date: 2023-08-03T05:00:00.000Z
+slug: jamstack
+tags:
+  - jamstack
+image: /images/Jamstack_Logo_DarkBG_Transparent.png
+categories:
+  - Jamstack
+description: this is meta description
+meta_title: ""
 ---
 
 # Exploring Jamstack: A Modern Approach to Building Websites
