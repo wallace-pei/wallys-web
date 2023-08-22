@@ -1,8 +1,9 @@
 ---
-title: What is Composable Architecture?
+title: TEST What is Composable Architecture?
 date: 2023-08-09T16:25:57.555Z
 image: /img/jamstack_logo_darkbg_transparent.png
-description: An article describing what Composable Architecture is.
+slug: Test Slug Filenamé
+description: TEST An article describing what Composable Architecture is.
 ---
 # Demystifying Composable Architecture: Building Smarter Web Experiences
 
