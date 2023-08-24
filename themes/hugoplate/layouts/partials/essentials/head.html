@@ -40,6 +40,7 @@
 
 <!-- google tag manager -->
 {{ partialCached "gtm.html" . }}
+{{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
 
 
 <!-- search index -->
